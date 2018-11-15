@@ -1,0 +1,13 @@
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.csprojAssemblyReference.cache
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.MainForm.resources
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.ChangeGateNameForm.resources
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.SelectGateForm.resources
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.AddGateForm.resources
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.csproj.GenerateResource.cache
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\ParseProject.csproj.CoreCompileInputs.cache
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+D:\projects\csproj\finalProj\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb
